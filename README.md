@@ -134,13 +134,6 @@ Useful: `devcommands` → `spawn SwordIron 1 3` (3★ iron sword), `raiseskill C
 (needed for languages such as Turkish where the localized skill name contains a space; `raiseskill all` skips custom skills).
 Don't join the test server with it until it's added to the modpack — ValheimEnforcer rejects unlisted mods.
 
-## Open questions / TODO
-- [ ] Tab position/size with 3 tabs — check in game, adjust `anchoredPosition` offset if it overlaps.
-- [ ] Gamepad: tab has no gamepad binding (UIGamePad stripped).
-- [ ] EpicLoot: enchanted items could also return enchanting materials (EpicLoot API).
-- [ ] Should items from other mods (no recipe at a vanilla station) be supported?
-- [ ] Publishing: create a new Thunderstore package version after changing packaged content or metadata.
-
 ## Translations
 - `Translations/<Language>.json`, file name = Valheim's language name exactly (list: header of the game's
   localization table; `tools/gen_forge_reclaimer_translations.py` has it). Embedded into the DLL at build time.
