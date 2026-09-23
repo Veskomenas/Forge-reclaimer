@@ -1,0 +1,10 @@
+{
+  "name": "ForgeReclaimer",
+  "version_number": "1.0.1",
+  "website_url": "https://github.com/Veskomenas/Forge-Reclaimer",
+  "description": "Reclaim materials from crafted gear at vanilla stations. Configure yields and odds server-side, with an optional Recycling skill and Epic Loot support.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2333",
+    "ValheimModding-Jotunn-2.30.2"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "hfr_tab": "Pārstrādāt",
+  "hfr_button": "Pārstrādāt",
+  "hfr_crafttype": "Pārstrādāt $1 (kvalitāte $2)",
+  "hfr_odds": "Katrs materiāls tiek noteikts atsevišķi:\n<color=#e57373>$1% sabirst</color> · <color=#ffb347>$2% vāji</color> · <color=#d0d0d0>$3% parasti</color>\n<color=#99ff99>$4% labi</color> · <color=#ffd54f>$5% džekpots</color>",
+  "hfr_worn": "\nNolietots: iznākums x$1%",
+  "hfr_equipped": "Vispirms noņem priekšmetu",
+  "hfr_result_nothing": "$1 sabira putekļos. Nekas netika atgūts.",
+  "hfr_result_poor": "$1 pārstrādāts: vājš ieguvums.",
+  "hfr_result_normal": "$1 pārstrādāts.",
+  "hfr_result_good": "$1 pārstrādāts: labs ieguvums!",
+  "hfr_result_jackpot": "$1 pārstrādāts: ideāls ieguvums!",
+  "hfr_skill": "Pārstrāde",
+  "hfr_skill_desc": "Ekipējuma izjaukšana darbnīcās. Augstāka prasme nozīmē mazāk sabiršanas un vairāk džekpotu.",
+  "hfr_skill_line": "Pārstrāde: $1"
+}

@@ -1,0 +1,16 @@
+{
+  "hfr_tab": "Återvinn",
+  "hfr_button": "Återvinn",
+  "hfr_crafttype": "Återvinn $1 (kvalitet $2)",
+  "hfr_odds": "Varje material slumpas separat:\n<color=#e57373>$1% smulas sönder</color> · <color=#ffb347>$2% dåligt</color> · <color=#d0d0d0>$3% normalt</color>\n<color=#99ff99>$4% bra</color> · <color=#ffd54f>$5% jackpott</color>",
+  "hfr_worn": "\nSliten: utbyte x$1%",
+  "hfr_equipped": "Ta av föremålet först",
+  "hfr_result_nothing": "$1 smulades sönder till damm. Inget återvanns.",
+  "hfr_result_poor": "Återvann $1: dålig bärgning.",
+  "hfr_result_normal": "Återvann $1.",
+  "hfr_result_good": "Återvann $1: bra bärgning!",
+  "hfr_result_jackpot": "Återvann $1: perfekt bärgning!",
+  "hfr_skill": "Återvinning",
+  "hfr_skill_desc": "Att ta isär utrustning vid hantverksstationer. Högre färdighet ger färre misslyckanden och fler jackpottar.",
+  "hfr_skill_line": "Återvinning: $1"
+}

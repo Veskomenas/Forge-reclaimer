@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <!-- Build: dotnet build mods/ForgeReclaimer -c Release  (auto-deploys into the local ADMIN r2modman profile). -->
+  <PropertyGroup>
+    <AssemblyName>Helgi.ForgeReclaimer</AssemblyName>
+    <RootNamespace>Helgi.ForgeReclaimer</RootNamespace>
+    <ValheimMod>true</ValheimMod>
+  </PropertyGroup>
+  <ItemGroup>
+    <!-- One JSON per Valheim language, embedded so the mod stays a single DLL. -->
+    <EmbeddedResource Include="Translations\*.json" LogicalName="Translations.%(Filename).json" />
+  </ItemGroup>
+</Project>

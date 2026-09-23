@@ -1,0 +1,16 @@
+{
+  "hfr_tab": "Reciclar",
+  "hfr_button": "Reciclar",
+  "hfr_crafttype": "Reciclar $1 (calidad $2)",
+  "hfr_odds": "Cada material se sortea por separado:\n<color=#e57373>$1% se desmorona</color> · <color=#ffb347>$2% pobre</color> · <color=#d0d0d0>$3% normal</color>\n<color=#99ff99>$4% bueno</color> · <color=#ffd54f>$5% premio gordo</color>",
+  "hfr_worn": "\nDesgastado: rendimiento x$1%",
+  "hfr_equipped": "Quítate el objeto primero",
+  "hfr_result_nothing": "$1 se convirtió en polvo. No se recuperó nada.",
+  "hfr_result_poor": "$1 reciclado: recuperación pobre.",
+  "hfr_result_normal": "$1 reciclado.",
+  "hfr_result_good": "$1 reciclado: ¡buena recuperación!",
+  "hfr_result_jackpot": "$1 reciclado: ¡recuperación perfecta!",
+  "hfr_skill": "Reciclaje",
+  "hfr_skill_desc": "Desmontar equipo en las estaciones de trabajo. Más habilidad significa menos objetos desmoronados y más premios gordos.",
+  "hfr_skill_line": "Reciclaje: $1"
+}

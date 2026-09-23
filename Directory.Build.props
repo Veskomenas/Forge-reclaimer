@@ -1,0 +1,41 @@
+<!--
+  Standalone build configuration for the public Forge Reclaimer repository.
+  Copy Directory.Build.user.props.example to Directory.Build.user.props and
+  provide ValheimDir and BepInExDir before building on a new machine.
+-->
+<Project>
+  <Import Project="Directory.Build.user.props" Condition="Exists('$(MSBuildThisFileDirectory)Directory.Build.user.props')" />
+
+  <PropertyGroup>
+    <TargetFramework>net472</TargetFramework>
+    <LangVersion>latest</LangVersion>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+    <Nullable>disable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.NETFramework.ReferenceAssemblies" Version="1.0.3" PrivateAssets="all" />
+  </ItemGroup>
+
+  <ItemGroup Condition="'$(ValheimMod)' == 'true'">
+    <PackageReference Include="BepInEx.AssemblyPublicizer.MSBuild" Version="0.4.2" PrivateAssets="all" ExcludeAssets="runtime" />
+    <Reference Include="assembly_valheim" Publicize="true" HintPath="$(ValheimDir)\valheim_Data\Managed\assembly_valheim.dll" Private="false" />
+    <Reference Include="assembly_utils" Publicize="true" HintPath="$(ValheimDir)\valheim_Data\Managed\assembly_utils.dll" Private="false" />
+    <Reference Include="assembly_guiutils" Publicize="true" HintPath="$(ValheimDir)\valheim_Data\Managed\assembly_guiutils.dll" Private="false" />
+    <Reference Include="UnityEngine" HintPath="$(ValheimDir)\valheim_Data\Managed\UnityEngine.dll" Private="false" />
+    <Reference Include="UnityEngine.CoreModule" HintPath="$(ValheimDir)\valheim_Data\Managed\UnityEngine.CoreModule.dll" Private="false" />
+    <Reference Include="UnityEngine.UI" HintPath="$(ValheimDir)\valheim_Data\Managed\UnityEngine.UI.dll" Private="false" />
+    <Reference Include="UnityEngine.UIModule" HintPath="$(ValheimDir)\valheim_Data\Managed\UnityEngine.UIModule.dll" Private="false" />
+    <Reference Include="UnityEngine.InputLegacyModule" HintPath="$(ValheimDir)\valheim_Data\Managed\UnityEngine.InputLegacyModule.dll" Private="false" />
+    <Reference Include="UnityEngine.TextRenderingModule" HintPath="$(ValheimDir)\valheim_Data\Managed\Unity.TextMeshPro.dll" Private="false" />
+    <Reference Include="BepInEx" HintPath="$(BepInExDir)\core\BepInEx.dll" Private="false" />
+    <Reference Include="0Harmony" HintPath="$(BepInExDir)\core\0Harmony.dll" Private="false" />
+    <Reference Include="Jotunn" HintPath="$(BepInExDir)\plugins\ValheimModding-Jotunn\Jotunn.dll" Private="false" />
+  </ItemGroup>
+
+  <Target Name="DeployToProfile" AfterTargets="Build" Condition="'$(ValheimMod)' == 'true' And '$(DeployDir)' != '' And Exists('$(DeployDir)') And '$(Deploy)' != 'false'">
+    <Copy SourceFiles="$(TargetPath)" DestinationFolder="$(DeployDir)" />
+  </Target>
+</Project>

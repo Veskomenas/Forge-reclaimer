@@ -1,0 +1,16 @@
+{
+  "hfr_tab": "Genbrug",
+  "hfr_button": "Genbrug",
+  "hfr_crafttype": "Genbrug $1 (kvalitet $2)",
+  "hfr_odds": "Hvert materiale slås separat:\n<color=#e57373>$1% smuldrer</color> · <color=#ffb347>$2% dårligt</color> · <color=#d0d0d0>$3% normalt</color>\n<color=#99ff99>$4% godt</color> · <color=#ffd54f>$5% jackpot</color>",
+  "hfr_worn": "\nSlidt: udbytte x$1%",
+  "hfr_equipped": "Tag genstanden af først",
+  "hfr_result_nothing": "$1 smuldrede til støv. Intet genvundet.",
+  "hfr_result_poor": "$1 genbrugt: sølle udbytte.",
+  "hfr_result_normal": "$1 genbrugt.",
+  "hfr_result_good": "$1 genbrugt: godt udbytte!",
+  "hfr_result_jackpot": "$1 genbrugt: perfekt udbytte!",
+  "hfr_skill": "Genbrug",
+  "hfr_skill_desc": "At skille udstyr ad ved værkstederne. Højere færdighed giver færre fejl og flere jackpots.",
+  "hfr_skill_line": "Genbrug: $1"
+}

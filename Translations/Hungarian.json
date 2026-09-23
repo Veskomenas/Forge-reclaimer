@@ -1,0 +1,16 @@
+{
+  "hfr_tab": "Bontás",
+  "hfr_button": "Bontás",
+  "hfr_crafttype": "$1 bontása (minőség $2)",
+  "hfr_odds": "Minden anyag külön sorsolódik:\n<color=#e57373>$1% szétporlad</color> · <color=#ffb347>$2% gyenge</color> · <color=#d0d0d0>$3% átlagos</color>\n<color=#99ff99>$4% jó</color> · <color=#ffd54f>$5% főnyeremény</color>",
+  "hfr_worn": "\nKopott: hozam x$1%",
+  "hfr_equipped": "Előbb vedd le a tárgyat",
+  "hfr_result_nothing": "$1 porrá omlott. Semmit sem sikerült visszanyerni.",
+  "hfr_result_poor": "$1 szétbontva: gyenge zsákmány.",
+  "hfr_result_normal": "$1 szétbontva.",
+  "hfr_result_good": "$1 szétbontva: jó zsákmány!",
+  "hfr_result_jackpot": "$1 szétbontva: tökéletes zsákmány!",
+  "hfr_skill": "Bontás",
+  "hfr_skill_desc": "Felszerelés szétszedése a munkaállomásoknál. Magasabb képesség kevesebb szétporladást és több főnyereményt jelent.",
+  "hfr_skill_line": "Bontás: $1"
+}

@@ -1,0 +1,16 @@
+{
+  "hfr_tab": "Endurvinna",
+  "hfr_button": "Endurvinna",
+  "hfr_crafttype": "Endurvinna $1 (gæði $2)",
+  "hfr_odds": "Hvert efni er dregið sérstaklega:\n<color=#e57373>$1% molnar</color> · <color=#ffb347>$2% lélegt</color> · <color=#d0d0d0>$3% venjulegt</color>\n<color=#99ff99>$4% gott</color> · <color=#ffd54f>$5% vinningur</color>",
+  "hfr_worn": "\nSlitið: afrakstur x$1%",
+  "hfr_equipped": "Taktu hlutinn af þér fyrst",
+  "hfr_result_nothing": "$1 molnaði í duft. Ekkert endurheimt.",
+  "hfr_result_poor": "$1 endurunnið: lélegur afrakstur.",
+  "hfr_result_normal": "$1 endurunnið.",
+  "hfr_result_good": "$1 endurunnið: góður afrakstur!",
+  "hfr_result_jackpot": "$1 endurunnið: fullkominn afrakstur!",
+  "hfr_skill": "Endurvinnsla",
+  "hfr_skill_desc": "Að taka búnað í sundur við vinnustöðvar. Meiri færni þýðir færri mistök og fleiri vinninga.",
+  "hfr_skill_line": "Endurvinnsla: $1"
+}

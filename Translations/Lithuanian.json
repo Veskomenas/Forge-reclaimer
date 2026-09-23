@@ -1,0 +1,16 @@
+{
+  "hfr_tab": "Perdirbti",
+  "hfr_button": "Perdirbti",
+  "hfr_crafttype": "Perdirbti $1 (kokybė $2)",
+  "hfr_odds": "Kiekvienos medžiagos rezultatas nustatomas atskirai:\n<color=#e57373>$1% subyra</color> · <color=#ffb347>$2% mažai</color> · <color=#d0d0d0>$3% vidutiniškai</color>\n<color=#99ff99>$4% gerai</color> · <color=#ffd54f>$5% džekpotas</color>",
+  "hfr_worn": "\nNusidėvėjimas: išeiga x$1%",
+  "hfr_equipped": "Pirmiausia nusiimk šį daiktą",
+  "hfr_result_nothing": "$1 subyrėjo į dulkes. Nieko neatgauta.",
+  "hfr_result_poor": "Perdirbta: $1. Mažai atgauta.",
+  "hfr_result_normal": "Perdirbta: $1.",
+  "hfr_result_good": "Perdirbta: $1. Daug atgauta!",
+  "hfr_result_jackpot": "Perdirbta: $1. Viskas atgauta!",
+  "hfr_skill": "Perdirbimas",
+  "hfr_skill_desc": "Daiktų ardymas prie gamybos stočių. Kuo aukštesnis įgūdis, tuo mažiau subyrėjimų ir daugiau džekpotų.",
+  "hfr_skill_line": "Perdirbimo įgūdis: $1"
+}

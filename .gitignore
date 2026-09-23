@@ -1,0 +1,13 @@
+# Build outputs and local machine configuration
+bin/
+obj/
+dist/
+Directory.Build.user.props
+
+# IDE and OS files
+.vs/
+.vscode/
+*.user
+*.suo
+Thumbs.db
+Desktop.ini

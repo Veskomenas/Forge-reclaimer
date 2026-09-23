@@ -1,0 +1,16 @@
+{
+  "hfr_tab": "Reciclează",
+  "hfr_button": "Reciclează",
+  "hfr_crafttype": "Reciclează $1 (calitate $2)",
+  "hfr_odds": "Fiecare material se trage la sorți separat:\n<color=#e57373>$1% se sfărâmă</color> · <color=#ffb347>$2% slab</color> · <color=#d0d0d0>$3% normal</color>\n<color=#99ff99>$4% bun</color> · <color=#ffd54f>$5% jackpot</color>",
+  "hfr_worn": "\nUzat: randament x$1%",
+  "hfr_equipped": "Mai întâi dezechipează obiectul",
+  "hfr_result_nothing": "$1 s-a prefăcut în praf. Nimic recuperat.",
+  "hfr_result_poor": "$1 reciclat: recuperare slabă.",
+  "hfr_result_normal": "$1 reciclat.",
+  "hfr_result_good": "$1 reciclat: recuperare bună!",
+  "hfr_result_jackpot": "$1 reciclat: recuperare perfectă!",
+  "hfr_skill": "Reciclare",
+  "hfr_skill_desc": "Dezasamblarea echipamentului la stațiile de lucru. Mai multă îndemânare înseamnă mai puține eșecuri și mai multe jackpoturi.",
+  "hfr_skill_line": "Reciclare: $1"
+}

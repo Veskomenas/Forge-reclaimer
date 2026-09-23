@@ -1,0 +1,16 @@
+{
+  "hfr_tab": "Kierrätä",
+  "hfr_button": "Kierrätä",
+  "hfr_crafttype": "Kierrätä $1 (laatu $2)",
+  "hfr_odds": "Jokainen materiaali arvotaan erikseen:\n<color=#e57373>$1% murenee</color> · <color=#ffb347>$2% heikko</color> · <color=#d0d0d0>$3% normaali</color>\n<color=#99ff99>$4% hyvä</color> · <color=#ffd54f>$5% jättipotti</color>",
+  "hfr_worn": "\nKulunut: saanto x$1%",
+  "hfr_equipped": "Riisu esine ensin",
+  "hfr_result_nothing": "$1 mureni tomuksi. Mitään ei saatu talteen.",
+  "hfr_result_poor": "$1 kierrätetty: heikko saalis.",
+  "hfr_result_normal": "$1 kierrätetty.",
+  "hfr_result_good": "$1 kierrätetty: hyvä saalis!",
+  "hfr_result_jackpot": "$1 kierrätetty: täydellinen saalis!",
+  "hfr_skill": "Kierrätys",
+  "hfr_skill_desc": "Varusteiden purkamista työpisteillä. Korkeampi taito tarkoittaa vähemmän murenemista ja enemmän jättipotteja.",
+  "hfr_skill_line": "Kierrätys: $1"
+}

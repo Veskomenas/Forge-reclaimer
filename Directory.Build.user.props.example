@@ -1,0 +1,12 @@
+<!--
+  Copy this file to Directory.Build.user.props and set paths for your machine.
+  The real file is ignored by Git so no local profile paths are published.
+-->
+<Project>
+  <PropertyGroup>
+    <ValheimDir>C:\Program Files (x86)\Steam\steamapps\common\Valheim</ValheimDir>
+    <BepInExDir>C:\path\to\your\Valheim\BepInEx</BepInExDir>
+    <!-- Optional: set a local plugin directory for automatic test deployment. -->
+    <!-- <DeployDir>C:\path\to\your\BepInEx\plugins\Helgi.ForgeReclaimer</DeployDir> -->
+  </PropertyGroup>
+</Project>

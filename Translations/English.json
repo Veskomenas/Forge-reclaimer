@@ -1,0 +1,16 @@
+{
+  "hfr_tab": "Recycle",
+  "hfr_button": "Recycle",
+  "hfr_crafttype": "Recycle $1 (quality $2)",
+  "hfr_odds": "Each material rolls separately:\n<color=#e57373>$1% crumbles</color> · <color=#ffb347>$2% poor</color> · <color=#d0d0d0>$3% normal</color>\n<color=#99ff99>$4% good</color> · <color=#ffd54f>$5% jackpot</color>",
+  "hfr_worn": "\nWorn: yield x$1%",
+  "hfr_equipped": "Unequip the item first",
+  "hfr_result_nothing": "$1 crumbled to dust. Nothing recovered.",
+  "hfr_result_poor": "Recycled $1: poor salvage.",
+  "hfr_result_normal": "Recycled $1.",
+  "hfr_result_good": "Recycled $1: good salvage!",
+  "hfr_result_jackpot": "Recycled $1: perfect salvage!",
+  "hfr_skill": "Recycling",
+  "hfr_skill_desc": "Taking gear apart at crafting stations. Higher skill means fewer crumbles and more jackpots.",
+  "hfr_skill_line": "Recycling skill: $1"
+}

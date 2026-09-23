@@ -1,0 +1,16 @@
+{
+  "hfr_tab": "リサイクル",
+  "hfr_button": "リサイクル",
+  "hfr_crafttype": "$1 をリサイクル（品質 $2）",
+  "hfr_odds": "素材ごとに個別に判定：\n<color=#e57373>$1% 崩壊</color> · <color=#ffb347>$2% 不調</color> · <color=#d0d0d0>$3% 普通</color>\n<color=#99ff99>$4% 良好</color> · <color=#ffd54f>$5% 大当たり</color>",
+  "hfr_worn": "\n摩耗: 収量 x$1%",
+  "hfr_equipped": "先に装備を外してください",
+  "hfr_result_nothing": "$1 は塵と化した。何も回収できなかった。",
+  "hfr_result_poor": "$1 をリサイクル：回収はわずか。",
+  "hfr_result_normal": "$1 をリサイクルした。",
+  "hfr_result_good": "$1 をリサイクル：良い回収！",
+  "hfr_result_jackpot": "$1 をリサイクル：完璧な回収！",
+  "hfr_skill": "リサイクル",
+  "hfr_skill_desc": "作業台で装備を分解する。スキルが高いほど崩壊が減り、大当たりが増える。",
+  "hfr_skill_line": "リサイクルスキル：$1"
+}

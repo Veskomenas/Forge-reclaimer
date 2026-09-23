@@ -1,0 +1,16 @@
+{
+  "hfr_tab": "Geri Dönüştür",
+  "hfr_button": "Geri Dönüştür",
+  "hfr_crafttype": "$1 geri dönüştür (kalite $2)",
+  "hfr_odds": "Her malzeme ayrı ayrı belirlenir:\n<color=#e57373>$1% ufalanır</color> · <color=#ffb347>$2% zayıf</color> · <color=#d0d0d0>$3% normal</color>\n<color=#99ff99>$4% iyi</color> · <color=#ffd54f>$5% büyük ikramiye</color>",
+  "hfr_worn": "\nYıpranmış: verim x$1%",
+  "hfr_equipped": "Önce eşyayı çıkar",
+  "hfr_result_nothing": "$1 toza dönüştü. Hiçbir şey kurtarılamadı.",
+  "hfr_result_poor": "$1 geri dönüştürüldü: zayıf kazanç.",
+  "hfr_result_normal": "$1 geri dönüştürüldü.",
+  "hfr_result_good": "$1 geri dönüştürüldü: iyi kazanç!",
+  "hfr_result_jackpot": "$1 geri dönüştürüldü: mükemmel kazanç!",
+  "hfr_skill": "Geri Dönüşüm",
+  "hfr_skill_desc": "Zanaat istasyonlarında teçhizatı sökmek. Yüksek beceri daha az ufalanma ve daha çok büyük ikramiye demektir.",
+  "hfr_skill_line": "Geri Dönüşüm: $1"
+}

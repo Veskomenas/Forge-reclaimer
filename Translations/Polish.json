@@ -1,0 +1,16 @@
+{
+  "hfr_tab": "Przetwórz",
+  "hfr_button": "Przetwórz",
+  "hfr_crafttype": "Przetwórz $1 (jakość $2)",
+  "hfr_odds": "Każdy materiał losowany jest osobno:\n<color=#e57373>$1% rozsypuje się</color> · <color=#ffb347>$2% słabo</color> · <color=#d0d0d0>$3% normalnie</color>\n<color=#99ff99>$4% dobrze</color> · <color=#ffd54f>$5% jackpot</color>",
+  "hfr_worn": "\nZużyte: uzysk x$1%",
+  "hfr_equipped": "Najpierw zdejmij przedmiot",
+  "hfr_result_nothing": "$1 rozsypał się w pył. Nic nie odzyskano.",
+  "hfr_result_poor": "Przetworzono $1: marny odzysk.",
+  "hfr_result_normal": "Przetworzono $1.",
+  "hfr_result_good": "Przetworzono $1: dobry odzysk!",
+  "hfr_result_jackpot": "Przetworzono $1: idealny odzysk!",
+  "hfr_skill": "Przetwarzanie",
+  "hfr_skill_desc": "Rozbieranie wyposażenia przy stanowiskach rzemieślniczych. Wyższa umiejętność to mniej rozsypanych przedmiotów i więcej jackpotów.",
+  "hfr_skill_line": "Przetwarzanie: $1"
+}

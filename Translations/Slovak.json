@@ -1,0 +1,16 @@
+{
+  "hfr_tab": "Recyklovať",
+  "hfr_button": "Recyklovať",
+  "hfr_crafttype": "Recyklovať $1 (kvalita $2)",
+  "hfr_odds": "Každý materiál sa losuje zvlášť:\n<color=#e57373>$1% rozpadne sa</color> · <color=#ffb347>$2% slabé</color> · <color=#d0d0d0>$3% bežné</color>\n<color=#99ff99>$4% dobré</color> · <color=#ffd54f>$5% jackpot</color>",
+  "hfr_worn": "\nOpotrebované: výnos x$1%",
+  "hfr_equipped": "Najprv si predmet zlož",
+  "hfr_result_nothing": "$1 sa rozpadol na prach. Nič nezískané.",
+  "hfr_result_poor": "$1 recyklované: slabý výnos.",
+  "hfr_result_normal": "$1 recyklované.",
+  "hfr_result_good": "$1 recyklované: dobrý výnos!",
+  "hfr_result_jackpot": "$1 recyklované: dokonalý výnos!",
+  "hfr_skill": "Recyklácia",
+  "hfr_skill_desc": "Rozoberanie výbavy pri pracovných staniciach. Vyššia zručnosť znamená menej rozpadov a viac jackpotov.",
+  "hfr_skill_line": "Recyklácia: $1"
+}

@@ -1,0 +1,16 @@
+{
+  "hfr_tab": "回收",
+  "hfr_button": "回收",
+  "hfr_crafttype": "回收 $1（品质 $2）",
+  "hfr_odds": "每种材料单独判定：\n<color=#e57373>$1% 碎裂</color> · <color=#ffb347>$2% 较差</color> · <color=#d0d0d0>$3% 普通</color>\n<color=#99ff99>$4% 良好</color> · <color=#ffd54f>$5% 大奖</color>",
+  "hfr_worn": "\n磨损: 产量 x$1%",
+  "hfr_equipped": "请先卸下该物品",
+  "hfr_result_nothing": "$1 化为尘土，什么也没回收到。",
+  "hfr_result_poor": "已回收 $1：收获较差。",
+  "hfr_result_normal": "已回收 $1。",
+  "hfr_result_good": "已回收 $1：收获不错！",
+  "hfr_result_jackpot": "已回收 $1：完美收获！",
+  "hfr_skill": "回收",
+  "hfr_skill_desc": "在制作台拆解装备。技能越高，碎裂越少，大奖越多。",
+  "hfr_skill_line": "回收技能：$1"
+}

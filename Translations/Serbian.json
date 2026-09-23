@@ -1,0 +1,16 @@
+{
+  "hfr_tab": "Recikliraj",
+  "hfr_button": "Recikliraj",
+  "hfr_crafttype": "Recikliraj $1 (kvalitet $2)",
+  "hfr_odds": "Svaki materijal se izvlači zasebno:\n<color=#e57373>$1% raspada se</color> · <color=#ffb347>$2% slabo</color> · <color=#d0d0d0>$3% normalno</color>\n<color=#99ff99>$4% dobro</color> · <color=#ffd54f>$5% džekpot</color>",
+  "hfr_worn": "\nIstrošeno: prinos x$1%",
+  "hfr_equipped": "Prvo skini predmet",
+  "hfr_result_nothing": "$1 se raspao u prah. Ništa nije vraćeno.",
+  "hfr_result_poor": "$1 recikliran: slab prinos.",
+  "hfr_result_normal": "$1 recikliran.",
+  "hfr_result_good": "$1 recikliran: dobar prinos!",
+  "hfr_result_jackpot": "$1 recikliran: savršen prinos!",
+  "hfr_skill": "Recikliranje",
+  "hfr_skill_desc": "Rastavljanje opreme na radnim stanicama. Veća veština znači manje raspadanja i više džekpotova.",
+  "hfr_skill_line": "Recikliranje: $1"
+}

@@ -1,0 +1,16 @@
+{
+  "hfr_tab": "Recyclen",
+  "hfr_button": "Recyclen",
+  "hfr_crafttype": "$1 recyclen (kwaliteit $2)",
+  "hfr_odds": "Elk materiaal wordt apart bepaald:\n<color=#e57373>$1% verkruimelt</color> · <color=#ffb347>$2% matig</color> · <color=#d0d0d0>$3% normaal</color>\n<color=#99ff99>$4% goed</color> · <color=#ffd54f>$5% jackpot</color>",
+  "hfr_worn": "\nVersleten: opbrengst x$1%",
+  "hfr_equipped": "Doe het voorwerp eerst uit",
+  "hfr_result_nothing": "$1 is tot stof vergaan. Niets teruggewonnen.",
+  "hfr_result_poor": "$1 gerecycled: matige opbrengst.",
+  "hfr_result_normal": "$1 gerecycled.",
+  "hfr_result_good": "$1 gerecycled: goede opbrengst!",
+  "hfr_result_jackpot": "$1 gerecycled: perfecte opbrengst!",
+  "hfr_skill": "Recyclen",
+  "hfr_skill_desc": "Uitrusting uit elkaar halen bij werkstations. Hogere vaardigheid betekent minder verkruimelen en meer jackpots.",
+  "hfr_skill_line": "Recyclen: $1"
+}

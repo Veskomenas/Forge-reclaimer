@@ -1,0 +1,34 @@
+[config]
+schemaVersion = "0.0.1"
+
+[package]
+namespace = "Helgi"
+name = "ForgeReclaimer"
+versionNumber = "1.0.1"
+description = "Reclaim materials from crafted gear at vanilla stations. Configure yields and odds server-side, with an optional Recycling skill and Epic Loot support."
+websiteUrl = "https://github.com/Veskomenas/Forge-Reclaimer"
+containsNsfwContent = false
+
+[package.dependencies]
+denikson-BepInExPack_Valheim = "5.4.2333"
+ValheimModding-Jotunn = "2.30.2"
+
+[build]
+icon = "./package/icon.png"
+readme = "./package/README.md"
+outdir = "./dist/tcli"
+
+[[build.copy]]
+source = "./package/CHANGELOG.md"
+target = "./CHANGELOG.md"
+
+[[build.copy]]
+source = "./bin/Release/Helgi.ForgeReclaimer.dll"
+target = "./BepInEx/plugins/Helgi.ForgeReclaimer/Helgi.ForgeReclaimer.dll"
+
+[publish]
+repository = "https://thunderstore.io"
+communities = [ "valheim" ]
+
+[publish.categories]
+valheim = []

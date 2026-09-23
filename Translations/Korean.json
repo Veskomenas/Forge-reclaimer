@@ -1,0 +1,16 @@
+{
+  "hfr_tab": "재활용",
+  "hfr_button": "재활용",
+  "hfr_crafttype": "$1 재활용 (품질 $2)",
+  "hfr_odds": "재료마다 따로 판정:\n<color=#e57373>$1% 부서짐</color> · <color=#ffb347>$2% 부족</color> · <color=#d0d0d0>$3% 보통</color>\n<color=#99ff99>$4% 좋음</color> · <color=#ffd54f>$5% 대박</color>",
+  "hfr_worn": "\n마모됨: 획득량 x$1%",
+  "hfr_equipped": "먼저 아이템을 해제하세요",
+  "hfr_result_nothing": "$1이(가) 먼지로 부서졌습니다. 아무것도 회수하지 못했습니다.",
+  "hfr_result_poor": "$1 재활용: 회수량 부족.",
+  "hfr_result_normal": "$1 재활용 완료.",
+  "hfr_result_good": "$1 재활용: 좋은 회수!",
+  "hfr_result_jackpot": "$1 재활용: 완벽한 회수!",
+  "hfr_skill": "재활용",
+  "hfr_skill_desc": "제작대에서 장비를 분해합니다. 기술이 높을수록 부서짐은 줄고 대박은 늘어납니다.",
+  "hfr_skill_line": "재활용 기술: $1"
+}

@@ -1,0 +1,16 @@
+{
+  "hfr_tab": "Recyceln",
+  "hfr_button": "Recyceln",
+  "hfr_crafttype": "$1 recyceln (Qualität $2)",
+  "hfr_odds": "Jedes Material wird einzeln ausgewürfelt:\n<color=#e57373>$1% zerfällt</color> · <color=#ffb347>$2% schlecht</color> · <color=#d0d0d0>$3% normal</color>\n<color=#99ff99>$4% gut</color> · <color=#ffd54f>$5% Volltreffer</color>",
+  "hfr_worn": "\nAbgenutzt: Ertrag x$1%",
+  "hfr_equipped": "Lege den Gegenstand zuerst ab",
+  "hfr_result_nothing": "$1 ist zu Staub zerfallen. Nichts zurückgewonnen.",
+  "hfr_result_poor": "$1 recycelt: magere Ausbeute.",
+  "hfr_result_normal": "$1 recycelt.",
+  "hfr_result_good": "$1 recycelt: gute Ausbeute!",
+  "hfr_result_jackpot": "$1 recycelt: perfekte Ausbeute!",
+  "hfr_skill": "Recycling",
+  "hfr_skill_desc": "Ausrüstung an Werkstationen zerlegen. Höhere Fertigkeit bedeutet weniger Zerfall und mehr Volltreffer.",
+  "hfr_skill_line": "Recycling: $1"
+}

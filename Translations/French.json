@@ -1,0 +1,16 @@
+{
+  "hfr_tab": "Recycler",
+  "hfr_button": "Recycler",
+  "hfr_crafttype": "Recycler $1 (qualité $2)",
+  "hfr_odds": "Chaque matériau est tiré séparément :\n<color=#e57373>$1% s'effrite</color> · <color=#ffb347>$2% médiocre</color> · <color=#d0d0d0>$3% normal</color>\n<color=#99ff99>$4% bon</color> · <color=#ffd54f>$5% jackpot</color>",
+  "hfr_worn": "\nUsé: rendement x$1%",
+  "hfr_equipped": "Retirez d'abord l'objet",
+  "hfr_result_nothing": "$1 est tombé en poussière. Rien n'a été récupéré.",
+  "hfr_result_poor": "$1 recyclé : maigre récupération.",
+  "hfr_result_normal": "$1 recyclé.",
+  "hfr_result_good": "$1 recyclé : bonne récupération !",
+  "hfr_result_jackpot": "$1 recyclé : récupération parfaite !",
+  "hfr_skill": "Recyclage",
+  "hfr_skill_desc": "Démonter l'équipement aux établis. Plus la compétence est haute, moins d'effritements et plus de jackpots.",
+  "hfr_skill_line": "Recyclage : $1"
+}

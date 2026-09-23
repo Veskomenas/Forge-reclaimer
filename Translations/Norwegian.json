@@ -1,0 +1,16 @@
+{
+  "hfr_tab": "Resirkuler",
+  "hfr_button": "Resirkuler",
+  "hfr_crafttype": "Resirkuler $1 (kvalitet $2)",
+  "hfr_odds": "Hvert materiale trekkes separat:\n<color=#e57373>$1% smuldrer</color> · <color=#ffb347>$2% dårlig</color> · <color=#d0d0d0>$3% normal</color>\n<color=#99ff99>$4% god</color> · <color=#ffd54f>$5% jackpot</color>",
+  "hfr_worn": "\nSlitt: utbytte x$1%",
+  "hfr_equipped": "Ta av gjenstanden først",
+  "hfr_result_nothing": "$1 smuldret til støv. Ingenting gjenvunnet.",
+  "hfr_result_poor": "$1 resirkulert: dårlig utbytte.",
+  "hfr_result_normal": "$1 resirkulert.",
+  "hfr_result_good": "$1 resirkulert: godt utbytte!",
+  "hfr_result_jackpot": "$1 resirkulert: perfekt utbytte!",
+  "hfr_skill": "Resirkulering",
+  "hfr_skill_desc": "Å ta fra hverandre utstyr ved arbeidsstasjonene. Høyere ferdighet gir færre feil og flere jackpotter.",
+  "hfr_skill_line": "Resirkulering: $1"
+}

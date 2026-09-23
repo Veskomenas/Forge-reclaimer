@@ -1,0 +1,16 @@
+{
+  "hfr_tab": "Ricicla",
+  "hfr_button": "Ricicla",
+  "hfr_crafttype": "Ricicla $1 (qualità $2)",
+  "hfr_odds": "Ogni materiale viene sorteggiato a parte:\n<color=#e57373>$1% si sbriciola</color> · <color=#ffb347>$2% scarso</color> · <color=#d0d0d0>$3% normale</color>\n<color=#99ff99>$4% buono</color> · <color=#ffd54f>$5% jackpot</color>",
+  "hfr_worn": "\nUsurato: resa x$1%",
+  "hfr_equipped": "Prima togli l'oggetto",
+  "hfr_result_nothing": "$1 si è sbriciolato. Nulla recuperato.",
+  "hfr_result_poor": "$1 riciclato: recupero scarso.",
+  "hfr_result_normal": "$1 riciclato.",
+  "hfr_result_good": "$1 riciclato: buon recupero!",
+  "hfr_result_jackpot": "$1 riciclato: recupero perfetto!",
+  "hfr_skill": "Riciclo",
+  "hfr_skill_desc": "Smontare l'equipaggiamento alle stazioni di lavoro. Più abilità significa meno sbriciolamenti e più jackpot.",
+  "hfr_skill_line": "Riciclo: $1"
+}
