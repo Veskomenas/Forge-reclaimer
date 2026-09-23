@@ -41,8 +41,10 @@ The server can tune return odds, material yields, durability behavior, eligibili
 - Epic Loot is optional and detected at runtime; it is not a required dependency.
 - Compatible with Configuration Manager-style tools that edit normal BepInEx config entries. Server-synced settings remain authoritative.
 
-## Support
+## Source, issues, and support
 
 Creator: Helgi
+
+Source code and issue reports: [GitHub — Veskomenas/Forge-reclaimer](https://github.com/Veskomenas/Forge-reclaimer)
 
 Please include the game version, mod version, BepInEx log, and relevant config values when reporting an issue.
